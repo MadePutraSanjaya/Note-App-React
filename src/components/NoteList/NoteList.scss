@@ -1,0 +1,29 @@
+.note-list{
+    ul {
+       
+        li {
+            padding: 5px 20px;
+            margin: 20px;
+            background-color: #40444B;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+
+            span {
+                margin-right: 20px;
+                margin-top: 7px;
+                font-size: 16px;
+                vertical-align: bottom;
+                letter-spacing: 0.1em;
+            }
+            
+                    .card-header-delete {
+                       background-color: #36393F;
+                       padding: 8px 10px;
+                       border-radius: 5px;
+                       height: 35px;
+                       cursor: pointer;
+                   }
+        }
+    }
+}
